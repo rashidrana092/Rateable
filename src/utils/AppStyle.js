@@ -1,0 +1,1 @@
+// in this file common styles will be saved that will be used all over the App
